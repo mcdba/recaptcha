@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    recaptcha (4.3.1)
+      json
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (1.8.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  recaptcha!
+
+BUNDLED WITH
+   1.14.6
